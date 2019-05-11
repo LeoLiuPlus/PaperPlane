@@ -1,7 +1,8 @@
-package com.wit.paperplane
+package com.wit.paperplane.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.wit.paperplane.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
